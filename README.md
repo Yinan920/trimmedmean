@@ -8,7 +8,6 @@ largest values, and averages what remains. Removing the extremes makes the
 estimate resistant to outliers, which is why the trimmed mean is a common
 *robust* alternative to the ordinary mean.
 
-> Replace `Yinan920` below with your own GitHub username throughout.
 
 ## Installation
 
@@ -84,6 +83,4 @@ the R floor rule, input immutability, and every error path.
 
 See the demo repository's README for the project-wide note on generative-AI use.
 
-## License
 
-MIT — see [LICENSE](LICENSE).
