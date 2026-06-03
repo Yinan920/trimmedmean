@@ -1,0 +1,6 @@
+# Go build artifacts
+*.exe
+*.test
+*.out
+# keep prebuilt bin/ in the demo if you like; otherwise uncomment:
+# /bin/
